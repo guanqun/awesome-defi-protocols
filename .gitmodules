@@ -19,3 +19,6 @@
 [submodule "uniswap-v3-periphery"]
 	path = uniswap-v3-periphery
 	url = https://github.com/Uniswap/uniswap-v3-periphery.git
+[submodule "aave-protocol-v2"]
+	path = aave-protocol-v2
+	url = https://github.com/aave/protocol-v2.git
