@@ -1,3 +1,6 @@
 [submodule "compound-protocol"]
 	path = compound-protocol
 	url = https://github.com/compound-finance/compound-protocol.git
+[submodule "makerdao-dss"]
+	path = makerdao-dss
+	url = https://github.com/makerdao/dss.git
