@@ -4,3 +4,6 @@
 [submodule "makerdao-dss"]
 	path = makerdao-dss
 	url = https://github.com/makerdao/dss.git
+[submodule "sushiswap"]
+	path = sushiswap
+	url = https://github.com/sushiswap/sushiswap.git
