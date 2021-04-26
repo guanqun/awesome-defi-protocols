@@ -22,3 +22,6 @@
 [submodule "aave-protocol-v2"]
 	path = aave-protocol-v2
 	url = https://github.com/aave/protocol-v2.git
+[submodule "curvefi-protocol"]
+	path = curvefi-protocol
+	url = https://github.com/curvefi/curve-contract.git
