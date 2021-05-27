@@ -31,3 +31,6 @@
 [submodule "balancer-core-v2"]
 	path = balancer-core-v2
 	url = https://github.com/balancer-labs/balancer-core-v2.git
+[submodule "core"]
+	path = core
+	url = https://github.com/unitprotocol/core.git
