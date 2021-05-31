@@ -34,3 +34,6 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/unitprotocol/core.git
+[submodule "0xprotocol"]
+	path = 0xprotocol
+	url = https://github.com/0xProject/protocol.git
