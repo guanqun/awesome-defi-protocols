@@ -37,3 +37,6 @@
 [submodule "0xprotocol"]
 	path = 0xprotocol
 	url = https://github.com/0xProject/protocol.git
+[submodule "1inch-chi"]
+	path = 1inch-chi
+	url = https://github.com/1inch/chi.git
