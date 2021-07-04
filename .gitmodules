@@ -43,3 +43,6 @@
 [submodule "synthetix"]
 	path = synthetix
 	url = https://github.com/Synthetixio/synthetix.git
+[submodule "opynfinance-gamma-protocol"]
+	path = opynfinance-gamma-protocol
+	url = https://github.com/opynfinance/GammaProtocol.git
