@@ -46,3 +46,9 @@
 [submodule "opynfinance-gamma-protocol"]
 	path = opynfinance-gamma-protocol
 	url = https://github.com/opynfinance/GammaProtocol.git
+[submodule "crypto-swap-contracts-core"]
+	path = crypto-swap-contracts-core
+	url = https://github.com/crypto-com/swap-contracts-core
+[submodule "crypto-swap-contracts-periphery"]
+	path = crypto-swap-contracts-periphery
+	url = https://github.com/crypto-com/swap-contracts-periphery
