@@ -52,3 +52,6 @@
 [submodule "crypto-swap-contracts-periphery"]
 	path = crypto-swap-contracts-periphery
 	url = https://github.com/crypto-com/swap-contracts-periphery
+[submodule "bancorprotocol-contracts"]
+	path = bancorprotocol-contracts
+	url = https://github.com/bancorprotocol/contracts-solidity.git
