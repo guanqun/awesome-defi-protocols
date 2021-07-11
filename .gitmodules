@@ -55,3 +55,6 @@
 [submodule "bancorprotocol-contracts"]
 	path = bancorprotocol-contracts
 	url = https://github.com/bancorprotocol/contracts-solidity.git
+[submodule "set-protocol-v2"]
+	path = set-protocol-v2
+	url = https://github.com/SetProtocol/set-protocol-v2.git
