@@ -58,3 +58,6 @@
 [submodule "set-protocol-v2"]
 	path = set-protocol-v2
 	url = https://github.com/SetProtocol/set-protocol-v2.git
+[submodule "frax-solidity"]
+	path = frax-solidity
+	url = https://github.com/FraxFinance/frax-solidity.git
