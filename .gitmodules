@@ -64,3 +64,9 @@
 [submodule "dsd-protocol"]
 	path = dsd-protocol
 	url = https://github.com/dynamicsetdollar/dsd-protocol.git
+[submodule "Covenants-Core"]
+	path = Covenants-Core
+	url = https://github.com/EthereansOS/Covenants-Core.git
+[submodule "emptyset"]
+	path = emptyset
+	url = https://github.com/emptysetsquad/emptyset.git
