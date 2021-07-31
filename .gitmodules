@@ -73,3 +73,6 @@
 [submodule "cvi-contracts"]
 	path = cvi-contracts
 	url = https://github.com/coti-io/cvi-contracts.git
+[submodule "set-protocol-contracts"]
+	path = set-protocol-contracts
+	url = https://github.com/SetProtocol/set-protocol-contracts.git
