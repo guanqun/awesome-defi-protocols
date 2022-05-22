@@ -79,3 +79,9 @@
 [submodule "magic-internet-money"]
 	path = magic-internet-money
 	url = https://github.com/Abracadabra-money/magic-internet-money.git
+[submodule "convexfinance"]
+	path = convexfinance
+	url = https://github.com/convex-eth/platform.git
+[submodule "pendle-core"]
+	path = pendle-core
+	url = https://github.com/pendle-finance/pendle-core.git
