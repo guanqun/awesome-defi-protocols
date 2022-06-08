@@ -85,3 +85,6 @@
 [submodule "pendle-core"]
 	path = pendle-core
 	url = https://github.com/pendle-finance/pendle-core.git
+[submodule "mStable-contracts"]
+	path = mStable-contracts
+	url = https://github.com/mstable/mStable-contracts.git
